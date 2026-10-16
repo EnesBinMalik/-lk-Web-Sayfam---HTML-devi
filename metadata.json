@@ -1,0 +1,6 @@
+{
+  "name": "İlk Web Sayfam - HTML Ödevi",
+  "description": "HTML ile ilk web sayfası ödevi: Başlık, Hakkımda, neler yaptığım, hobilerim ve yorum satırlarıyla zenginleştirilmiş canlı web sayfası ve kod görüntüleyici.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
